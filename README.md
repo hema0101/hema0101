@@ -1,13 +1,17 @@
 <div align="center">
 
-# 👨‍💻 Ibrahim Soliman
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ibrahim%20Soliman&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=DevOps%20Engineer%20%26%20Frontend%20Developer&descAlignY=51&descAlign=50" />
 
-### DevOps Engineer & Frontend Developer
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;DevOps+%26+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Frontend+Developer+%F0%9F%92%BB;Building+Scalable+Solutions+%F0%9F%9A%80;Automation+%26+CI%2FCD+Expert+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+
+<br/>
 
 [![Location](https://img.shields.io/badge/📍_Location-Qaliuobia,_Egypt-blue?style=for-the-badge)](https://maps.google.com/?q=Qaliuobia,Egypt)
 [![Email](https://img.shields.io/badge/Email-ibrahimsoliman236@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahimsoliman236@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-+20_115_170_3160-green?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+201151703160)
 [![GitHub](https://img.shields.io/badge/GitHub-hema0101-181717?style=for-the-badge&logo=github)](https://github.com/hema0101)
+
+<img src="https://komarev.com/ghpvc/?username=hema0101&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
 ---
 
@@ -25,6 +29,22 @@ Passionate **DevOps Engineer** and **Frontend Developer** with expertise in clou
 - 🎓 Bachelor's degree in Computer Science from October 6 University
 
 ## 🛠️ Technical Arsenal
+
+<div align="center">
+
+### 💻 Languages & Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,bash,react,html,css,bootstrap,tailwind,nodejs,mongodb,mysql,aws,docker,kubernetes,terraform,ansible,jenkins,git,github,linux,vscode,postman&perline=8" />
+  </a>
+</p>
+
+</div>
+
+<details>
+<summary><b>🔧 Detailed Tech Stack</b></summary>
+<br/>
 
 ### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -53,6 +73,8 @@ Passionate **DevOps Engineer** and **Frontend Developer** with expertise in clou
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</details>
 
 ## 💼 Professional Journey
 
@@ -134,11 +156,39 @@ October 6 University, Faculty of Computer Science
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hema0101&show_icons=true&theme=radical&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=hema0101&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hema0101&layout=compact&theme=radical&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hema0101&theme=radical&hide_border=true" alt="GitHub Streak" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hema0101&theme=radical&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hema0101&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hema0101/hema0101/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hema0101/hema0101/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hema0101/hema0101/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hema0101&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=hema0101&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 
 </div>
 
@@ -159,6 +209,8 @@ I'm always interested in connecting with fellow developers, DevOps enthusiasts, 
 <div align="center">
 
 ### 💭 *"Automating the present, architecting the future"*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
 ⭐️ From [Ibrahim Soliman](https://github.com/hema0101)
 
